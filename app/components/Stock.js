@@ -4,7 +4,7 @@ var React = require('react');
 var Router = require('react-router');
 
 var Stock = React.createClass({
-  mixin : [Router.State],
+  mixins : [Router.State],
   getInitialState : function() {
     return {
       symbol : '',
