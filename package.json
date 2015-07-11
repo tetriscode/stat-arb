@@ -1,0 +1,27 @@
+{
+  "name": "tradeview",
+  "version": "1.0.0",
+  "description": "Tradeking statistical trading",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tetriscode/tetristrade.git"
+  },
+  "author": "Wes Richardet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetriscode/tetristrade/issues"
+  },
+  "homepage": "https://github.com/tetriscode/tetristrade",
+  "dependencies": {
+    "babel-core": "^5.6.17",
+    "babel-loader": "^5.3.1",
+    "node-libs-browser": "^0.5.2",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "webpack": "^1.10.1"
+  }
+}
